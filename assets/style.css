@@ -1,0 +1,72 @@
+/* body {
+min-width: 100%;
+margin: 0;
+} */
+.col, .col-8, .col-4 {
+height: 400px;
+margin: 0%;
+}
+nav, footer { 
+background-color: #659DBD;
+justify-content: center;
+}
+
+p { 
+color: white;
+font-weight: bold;
+font-size: 38px;
+text-decoration: underline;
+}
+
+span { 
+color: white;
+font-weight: bold;
+font-size: 38px;
+}
+
+#topHalf1 {
+background-color:#fbeec1 ;
+}
+
+#topHalf2 { 
+ background-color:#8d8741 ;
+}
+
+#topStretch1 { 
+background-image: url("brimg4.jpg");
+background-size: cover;
+height: 600px;
+}
+
+#topStretch2 { 
+background-color: #daad86 ;
+height: 600px;
+}
+
+#midStretch1 {
+background-color:#659DBD ;
+justify-content: center;
+
+}
+#midStretch2 { 
+background-image: url("brimg3.jpg");
+background-size: cover;
+}
+
+#formCol { 
+background-color:#bc986a;
+}
+#contactCard { 
+background-color: #8d8741 ;
+}
+
+.social {
+margin-right: auto;
+margin-left: auto;
+}
+
+
+a { 
+color: #fbeec1;
+margin: 5px;
+}
